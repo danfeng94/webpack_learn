@@ -1,5 +1,7 @@
-/jsx/mode_modules/
+/jsx/node_modules/
 /jsx/dist
 /jsx/package-lock.json
 
 /tsx/package-lock.json
+/tsx/node_modules/
+/tsx/dist

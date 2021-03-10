@@ -1,0 +1,10 @@
+# 并不是所有人都是用通过vscode,所以在这里统一不同编辑器下的代码风格
+
+root = true
+
+[*]
+indent_style = space
+tab_width = 4
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
